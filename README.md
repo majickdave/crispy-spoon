@@ -1,5 +1,5 @@
 # Data Scientist
-- email: [david.your.data.guru@gmail.com](david.your.data.guru@gmail.com)
+- email: <david.your.data.guru@gmail.com>
 - phone: 424-443-8023
 - Location: San Diego, CA
 - linkedin: [https://www.linkedin.com/datascienceinsight](https://www.linkedin.com/datascienceinsight)

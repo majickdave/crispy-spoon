@@ -1,7 +1,7 @@
 # Data Scientist
 - email: <david.your.data.guru@gmail.com>
 - phone: [424-443-8023](tel:+1424-443-8023)
-- Location: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d429158.44706631714!2d-117.43810892616528!3d32.824054089715325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9530fad921e4b%3A0xd3a21fdfd15df79!2sSan%20Diego%2C%20CA!5e0!3m2!1sen!2sus!4v1739222729689!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- Location: [San Diego, CA](https://maps.app.goo.gl/oYSYZxJgXjEZGYLn7)
 - linkedin: [https://www.linkedin.com/datascienceinsight](https://www.linkedin.com/datascienceinsight)
 - github: [https://www.github.com/majickdave](https://www.github.com/majickdave)
 - portfolio: [https://majickdave.github.io](https://majickdave.github.io) 

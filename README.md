@@ -1,6 +1,12 @@
 # Data Scientist
-david.your.data.guru@gmail.com | 424-443-8023 | San Diego, CA | Hybrid | Remote linkedin | github | portfolio 
-Top Skills: Python, SQL, HDFS, AWS, GCP, Big Query, Machine Learning, Data Wrangling, Data Storytelling, Product Management
+- email: david.your.data.guru@gmail.com
+- phone: 424-443-8023
+- Location: San Diego, CA
+- linkedin: https://www.linkedin.com/datascienceinsight
+- github: https://www.github.com/majickdave
+- portfolio: https://majickdave.github.io 
+
+## Top Skills: Python, SQL, HDFS, AWS, GCP, Big Query, Machine Learning, Data Wrangling, Data Storytelling, Product Management
 
 ## Experience
 ### Data Product Manager @ Apple

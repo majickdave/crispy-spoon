@@ -6,7 +6,7 @@
 - github: https://www.github.com/majickdave
 - portfolio: https://majickdave.github.io 
 
-## Top Skills: Python, SQL, HDFS, AWS, GCP, Big Query, Machine Learning, Data Wrangling, Data Storytelling, Product Management
+Top Skills: Python, SQL, HDFS, AWS, GCP, Big Query, Machine Learning, Data Wrangling, Data Storytelling, Product Management
 
 ## Experience
 ### Data Product Manager @ Apple

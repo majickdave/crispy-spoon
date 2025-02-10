@@ -1,10 +1,10 @@
 # Data Scientist
-- email: david.your.data.guru@gmail.com
+- email: [david.your.data.guru@gmail.com](david.your.data.guru@gmail.com)
 - phone: 424-443-8023
 - Location: San Diego, CA
-- linkedin: https://www.linkedin.com/datascienceinsight
-- github: https://www.github.com/majickdave
-- portfolio: https://majickdave.github.io 
+- linkedin: [https://www.linkedin.com/datascienceinsight](https://www.linkedin.com/datascienceinsight)
+- github: [https://www.github.com/majickdave](https://www.github.com/majickdave)
+- portfolio: [https://majickdave.github.io](https://majickdave.github.io) 
 
 Top Skills: Python, SQL, HDFS, AWS, GCP, Big Query, Machine Learning, Data Wrangling, Data Storytelling, Product Management
 
